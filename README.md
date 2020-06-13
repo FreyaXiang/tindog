@@ -1,2 +1,2 @@
 # tindog
-A website made by HTML, CSS, and the Bootstrap framework.
+A responsive website made by HTML, CSS, JavaScript, and the Bootstrap framework.
